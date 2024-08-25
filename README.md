@@ -51,7 +51,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/>
                     <img src="https://avatars.githubusercontent.com/u/144484029?s=400&u=8b9f5ddc507dc6f0e175f5c0ab93cc110b43359b&v=4" width="100px;" alt="Kalyani Shinde"/>
                     <br />
-                    <sub><b>Ali Solanki</b></sub>
+                    <sub><b>Kalyani Shinde</b></sub>
                 </a> 
             </td>
             <td align="center">
